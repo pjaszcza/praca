@@ -1,1 +1,1 @@
-# praca
+# Paweł Jaszcza, projekt pracy inżynierskiej.
